@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Archana;Kelkar;;;
+FN: Kelkar  Archana 
+ORG:Websenz Technologies;
+TITLE:Proprietor\nWeb & Digital Solutions, Pune
+EMAIL;type=INTERNET;type=WORK;type=pref:info@websenz.in
+TEL;type=WORK;type=VOICE:+91 8788580380
+item1.ADR;type=WORK;type=pref:;;Office no.7, 2nd floor, Gurudatta Housing Society\n1089, Shukrawarpeth, Swargate Corner,\, 09-01;;;411002;Pune
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:websenz.in
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
