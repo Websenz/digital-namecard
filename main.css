@@ -95,7 +95,7 @@ img.profile-pic {
 
 .col.is-6 {
 	flex: none;
-	width: 60%;
+	width: 47%;
 }
 
 .col.is-7 {
@@ -135,11 +135,16 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background: linear-gradient(90deg, rgb(249, 110, 12) 0%, rgb(177, 79, 10) 35%, rgb(249, 110, 12) 100%);
 }
 
+
 .bg-color-white {
-	background-color: white;
+	background-color: #e9e9e9;
+}
+
+.bg-color-grey {
+	background-color: #efefef;
 }
 
 .text-name {
